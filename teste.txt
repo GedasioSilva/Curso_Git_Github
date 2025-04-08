@@ -3,3 +3,4 @@ a
 b
 c
 enviando a funcionalidade x
+enviando a funcionalidade B
